@@ -1,0 +1,15 @@
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\bin\Debug\net8.0\tpmodul5_2211104018.exe
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\bin\Debug\net8.0\tpmodul5_2211104018.deps.json
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\bin\Debug\net8.0\tpmodul5_2211104018.runtimeconfig.json
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\bin\Debug\net8.0\tpmodul5_2211104018.dll
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\bin\Debug\net8.0\tpmodul5_2211104018.pdb
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.AssemblyInfoInputs.cache
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.AssemblyInfo.cs
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.csproj.CoreCompileInputs.cache
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.sourcelink.json
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.dll
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\refint\tpmodul5_2211104018.dll
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.pdb
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\tpmodul5_2211104018.genruntimeconfig.cache
+C:\Users\dhafi\Source\Repos\Modul5_KPL\tpmodul5_2211104018\obj\Debug\net8.0\ref\tpmodul5_2211104018.dll
